@@ -1,0 +1,1 @@
+# seperate creation of s3 and dynamo db bucket.
